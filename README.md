@@ -115,11 +115,13 @@ As a student pursuing a degree in Information Technology, you need to constantly
 - [OpenAI Gym](https://gym.openai.com/)
 
 
-##Note that while these resources are free, some may require you to meet certain eligibility criteria, such as being a student, to access them. Be sure to check the respective websites for more information ##on how to access these free resources.
+Note that while these resources are free, some may require you to meet certain eligibility criteria, such as being a student, to access them. Be sure to check the respective websites for more information on how to access these free resources.
 
-##With these resources at your disposal, you can:
+With these resources at your disposal, you can:
 
-##1. Develop your IT skills and knowledge
-##2. Keep up with the latest industry trends
+Develop your IT skills and knowledge
+Keep up with the latest industry trends
+Enhance your productivity
+
 ##3. Enhance your productivity
 
