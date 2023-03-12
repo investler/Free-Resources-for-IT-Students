@@ -47,7 +47,7 @@ As a student pursuing a degree in Information Technology, you need to constantly
 
 ## Development Environments and Tools
 - [Eclipse IDE](https://www.eclipse.org/downloads/)
-- [NetBeans](https://netbeans.apache.org/download/index.html)
+- [NetBeans(https://netbeans.apache.org/download/index.html)
 - [RStudio](https://rstudio.com/products/rstudio/download/#download)
 - [Anaconda](https://www.anaconda.com/products/individual-student)
 - [Jupyter Notebook](https://jupyter.org/try)
