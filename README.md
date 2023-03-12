@@ -122,5 +122,4 @@ As a student pursuing a degree in Information Technology, you need to constantly
 ## 1.Develop your IT skills and knowledge
 ## 2.Keep up with the latest industry trends
 ## 3.Enhance your productivity
-##3. Enhance your productivity
 
