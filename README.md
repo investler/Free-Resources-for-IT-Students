@@ -42,8 +42,6 @@ As a student pursuing a degree in Information Technology, you need to constantly
 - [Adobe XD](https://www.adobe.com/products/xd.html)
 - [Sketch](https://www.sketch.com/education/)
 - [Inkscape](https://inkscape.org/download/)
-- [GIMP](https://www.gimp.org/downloads/)
-- [Blender](https://www.blender.org/)
 
 ## Development Environments and Tools
 - [Eclipse IDE](https://www.eclipse.org/downloads/)
@@ -125,33 +123,3 @@ As a student pursuing a degree in Information Technology, you need to constantly
 ##2. Keep up with the latest industry trends
 ##3. Enhance your productivity
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-- [PyCharm Community Edition](https://www.jetbrains.com/pycharm/download/)
-- [Eclipse IDE](https://www.eclipse.org/downloads/)
-- [NetBeans](https://netbeans.apache.org/download
